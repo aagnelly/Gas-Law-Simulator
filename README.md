@@ -1,1 +1,2 @@
 # Gas-Law-Simulator
+Simulation animates the behavior of gas molecules. Pressure, volume, moles and temperature variables are linked via the ideal gas law equation (PV = nRT). Interaction with the simulation allows the user to set one of the four variables as the dependent variable while manipulating the other 3. The size of the container, speed of the particles, and number of particles respond according to the manipulation of the variables.
